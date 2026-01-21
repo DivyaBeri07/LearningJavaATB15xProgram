@@ -1,4 +1,4 @@
-package ex_Lab001_javaprogram;
+package ex_Lab001_JavaBasics;
 
 public class Lab001_Helloworld {
      public static void main(String[] args) {

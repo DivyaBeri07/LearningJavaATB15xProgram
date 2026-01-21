@@ -1,6 +1,6 @@
 package ex_Lab002_Variables_DataTypes;
 
-public class Lab002_LocalVariables {
+public class Lab009_LocalVariables {
 
         public static void main(String[] args) {
             int a = 10;
