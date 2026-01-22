@@ -16,7 +16,12 @@ public class Lab011_Define_Constants {
 
         final int MEM_LIST = 12;
 
-        System.out.println(MEM_LIST);
+       System.out.println(MEM_LIST);
+
+        final float PI = 3.14f;
+
+        System.out.println(PI);
+
 
     }
 }
